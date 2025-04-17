@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode or editor folders
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+

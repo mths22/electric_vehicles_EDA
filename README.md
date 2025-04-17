@@ -85,10 +85,8 @@ Tesla takes the lead starting around 2020, with other brands like Nissan and Che
 Business student and aspiring data analyst focused on using data storytelling to reveal patterns and support smart decisions.
 
 [LinkedIn](https://www.linkedin.com/in/matheus-cavalcanti-b413361b8/) 
+
 ---
 
 > ⭐ Found this project useful? Star the repo to support it or share it with others!
-=======
-# electric_vehicles_EDA
-Electric vehicles data exploration
->>>>>>> d74d04fb48e38fb5c3ce6774a0866ab3a88bd730
+
